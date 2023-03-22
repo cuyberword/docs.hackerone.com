@@ -1,5 +1,5 @@
 ---
-title: "Retesting"
+title: "minantocyber"
 path: "/hackers/retesting.html"
 id: "hackers/retesting"
 ---
@@ -36,7 +36,7 @@ Action | Scenario | Details
 ### Claiming Retest Opportunities
 If the program is:
 
-Program Type | Details
+Program Type | DetailsC+
 ------------ | --------
 Private | If you’re part of the private program offering retests, you can find and claim the retesting opportunities under **Hacker Dashboard > Retesting**.
 Public | You’ll be able to claim retests for programs where you submitted at least 1 valid vulnerability (the report is resolved or triaged) under **Hacker Dashboard > Retesting**.
